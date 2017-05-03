@@ -1,3 +1,0 @@
-# SlashQuery
-
-API Gateway
